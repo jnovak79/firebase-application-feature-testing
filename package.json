@@ -1,0 +1,19 @@
+{
+  "name": "firebase-application-feature-testing",
+  "version": "1.0.0",
+  "description": "Firebase application testing repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnovak79/firebase-application-feature-testing.git"
+  },
+  "author": "John Novakowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnovak79/firebase-application-feature-testing/issues"
+  },
+  "homepage": "https://github.com/jnovak79/firebase-application-feature-testing#readme"
+}
